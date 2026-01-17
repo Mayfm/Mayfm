@@ -8,6 +8,10 @@ I’m also part of **RSG Mexico**, where I help organize bioinformatics courses,
 
 Currently finishing my bachelor’s thesis and excited for what comes next!
 
+<p align="center">
+  <img src="banner.jpeg" />
+</p>
+
 ---
 
 ## 🌸 About Me
@@ -25,10 +29,12 @@ I’m passionate about combining microbiology and bioinformatics to explore biol
 
 ## 📁 Projects
 You can find my projects in the repositories linked below:
-- [Microbial Genomics](../Genomic)
-- [Infectious Disease Modeling](../Epidemiological_Model)
-- **Bioinformatics projects in R**
-- **Bioinformatics projects in Bash**
+
+These repositories include projects and assignmentes completed during my bachelor's degree. They showcase my learning process in bioinformatics.
+- [Microbial Genomics](https://github.com/Mayfm/Genomic)
+- [Infectious Disease Modeling](https://github.com/Mayfm/Epidemiological_Model)
+- [Bioinformatics projects in R](https://github.com/Mayfm/Bioinformatics_R)
+- [Bioinformatics projects in Bash](https://github.com/Mayfm/Bioinformatics_bash)
 
 ---
 
@@ -39,7 +45,3 @@ My certificates and participation records are available in the [Certificates fol
 
 ## 📫 Contact
 🌸 maye.fosado@gmail.com
-
-<p align="center">
-  <img src="banner.jpeg" />
-</p>
