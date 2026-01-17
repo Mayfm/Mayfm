@@ -1,6 +1,6 @@
 # 🌸 Hi! I'm Mayela, a microbiologist exploring bioinformatics.
 
-I work with **metagenomic and microbiome data** with metagenomic and microbiome data and exploring bioinformatics as a research approach applicable to biological questions in any context.
+I work with **metagenomic and microbiome data** and exploring bioinformatics as a research approach applicable to biological questions in any context.
 
 I’ve worked with tools like phyloseq, Kraken, and KEGG Mapper, and I enjoy learning new bioinformatics tools and computational
 
