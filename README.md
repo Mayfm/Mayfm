@@ -10,15 +10,6 @@ Currently finishing my bachelor’s thesis and excited for what comes next!
 
 ---
 
-## 📌 Table of Contents
-- [About Me](#about-me)
-- [Skills](#skills)
-- [Projects](#projects)
-- [Certificates](#certificates)
-- [Contact](#contact)
-
----
-
 ## 🌸 About Me
 I’m passionate about combining microbiology and bioinformatics to explore biological questions in different contexts.
 
@@ -34,15 +25,15 @@ I’m passionate about combining microbiology and bioinformatics to explore biol
 
 ## 📁 Projects
 You can find my projects in the repositories linked below:
-- **Microbial Genomics**
-- **Infectious Disease Modeling**
+- [Microbial Genomics](../Genomic)
+- [Infectious Disease Modeling](../Epidemiological_Model)
 - **Bioinformatics projects in R**
 - **Bioinformatics projects in Bash**
 
 ---
 
 ## 📜 Certificates
-My certificates and participation records are available in the `certificates/` folder.
+My certificates and participation records are available in the [certificates folder][./certificates/).
 
 ---
 
