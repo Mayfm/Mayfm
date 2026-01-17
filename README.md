@@ -1,6 +1,6 @@
-# 🌸 Hi! I'm Mayela, a microbiologist transitioning into bioinformatics.
+# 🌸 Hi! I'm Mayela, a microbiologist exploring bioinformatics.
 
-I work with **metagenomic and microbiome data** to study microbial diversity, functional pathways, and ecological interactions. I enjoy using tools like **phyloseq** and **KEGG Mapper** to turn sequencing data into biological insights.
+I work with **metagenomic and microbiome data** to study microbial diversity, functional pathways, and ecological interactions. I enjoy using tools like **phyloseq,** **kraken** and **KEGG Mapper** to turn sequencing data into biological insights.
 
 I'm especially interested in the intersection of **microbiology, bioinformatics, and ecology** 🧬🌍.
 
@@ -12,4 +12,4 @@ Currently finishing my bachelor’s thesis and really excited about what comes n
   <img src="banner.jpeg" />
 </p>
 
-<h2 align="center">🌸 Hi! I'm Mayela</h2>
+<h2 align="center">🌸 maye.fosado@gmail.com</h2>
