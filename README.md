@@ -39,7 +39,7 @@ These repositories include projects and assignmentes completed during my bachelo
 - [Infectious Disease Modeling](https://github.com/Mayfm/Epidemiological_Model)
 - [Bioinformatics projects in R](https://github.com/Mayfm/Bioinformatics_R)
 - [Bioinformatics projects in Bash](https://github.com/Mayfm/Bioinformatics_bash)
-
+- [Variant Filtering Pipeline](https://github.com/Mayfm/Variant-Filtering-Pipeline)
 ---
 
 ## 📜 Certificates
