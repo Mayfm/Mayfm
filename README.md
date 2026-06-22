@@ -1,4 +1,4 @@
-# 🌸 🌸 Hi! I'm Mayela, a microbiologist interested in bioinformatics, data science, and computational biology.
+# 🌸 Hi! I'm Mayela, a microbiologist interested in bioinformatics, data science, and computational biology.
 
 I work with **metagenomic and microbiome data**, and I'm interested in using bioinformatics and data science to understand complex biological systems.
 
