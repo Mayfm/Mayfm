@@ -6,7 +6,7 @@ I’ve worked with tools like **phyloseq**, **Kraken2**, and **KEGG Mapper**, an
 
 I’m also a member of **RSG Mexico**, where I help organize bioinformatics courses, symposia, and journal clubs.
 
-Recently completed my bachelor's thesis and currently expanding my skills in bioinformatics, computational biology, and data science.
+Recently completed my bachelor's thesis and continue developing expertise in bioinformatics, computational biology, and data science.
 
 <p align="center">
   <img src="banner.jpeg" />
@@ -22,7 +22,7 @@ I'm passionate about applying computational approaches to biological questions a
 
 ## 🧠 Skills
 - Metagenomics & microbiome analysis  
-- Bioinformatics tools: **phyloseq, Kraken, KEGG Mapper**  
+- Bioinformatics tools: **phyloseq, Kraken2, KEGG Mapper**  
 - Data analysis in R  
 - Command-line tools (Bash)  
 - Python for data analysis
