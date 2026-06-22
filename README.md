@@ -1,12 +1,12 @@
-# 🌸 Hi! I'm Mayela, a microbiologist exploring bioinformatics.
+# 🌸 🌸 Hi! I'm Mayela, a microbiologist interested in bioinformatics, data science, and computational biology.
 
-I work with **metagenomic and microbiome data**, and I enjoy applying bioinformatics to answer biological questions in any context.
+I work with **metagenomic and microbiome data**, and I'm interested in using bioinformatics and data science to understand complex biological systems.
 
-I’ve worked with tools like **phyloseq**, **Kraken**, and **KEGG Mapper**, and I’m always excited to learn new computational methods.
+I’ve worked with tools like **phyloseq**, **Kraken2**, and **KEGG Mapper**, and I’m always excited to learn new computational methods.
 
-I’m also part of **RSG Mexico**, where I help organize bioinformatics courses, symposia, and journal clubs.
+I’m also a member of **RSG Mexico**, where I help organize bioinformatics courses, symposia, and journal clubs.
 
-Currently finishing my bachelor’s thesis and excited for what comes next!
+Recently completed my bachelor's thesis and currently expanding my skills in bioinformatics, computational biology, and data science.
 
 <p align="center">
   <img src="banner.jpeg" />
@@ -15,7 +15,8 @@ Currently finishing my bachelor’s thesis and excited for what comes next!
 ---
 
 ## 🌸 About Me
-I’m passionate about combining microbiology and bioinformatics to explore biological questions in different contexts.
+
+I'm passionate about applying computational approaches to biological questions and exploring the intersection of microbiology, bioinformatics, and data science.
 
 ---
 
@@ -24,6 +25,8 @@ I’m passionate about combining microbiology and bioinformatics to explore biol
 - Bioinformatics tools: **phyloseq, Kraken, KEGG Mapper**  
 - Data analysis in R  
 - Command-line tools (Bash)  
+- Python for data analysis
+- Git & GitHub
 
 ---
 
