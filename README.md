@@ -33,7 +33,7 @@ I'm passionate about applying computational approaches to biological questions a
 ## 📁 Projects
 You can find my projects in the repositories linked below:
 
-### 🔬 Microbiota Thesis Pipeline
+### Microbiota Thesis Pipeline
 Bioinformatics workflow developed for my undergraduate thesis in Microbiology. The project includes sequencing data preprocessing, quality control, taxonomic classification, diversity analyses, statistical analyses in R, and data visualization for microbiome research.
 
 - [Microbiota Thesis Pipeline](https://github.com/Mayfm/microbiota-thesis-pipeline)
