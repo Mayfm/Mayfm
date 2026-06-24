@@ -2,15 +2,15 @@
 title: "Mayela Fosado Mendoza"
 image: "Mayela_Fosado_Mendoza.jpg"
 links:
-  - label: '`r fontawesome::fa(name = "linkedin", fill = "steelblue")` LinkedIn'
+  - label: '`r fontawesome::fa(name = "linkedin", fill = "#659287")` LinkedIn'
     url: "https://www.linkedin.com/in/mayela-fosado-mendoza/"
-  - label: '`r fontawesome::fa(name = "twitter", fill = "steelblue")` Twitter'
-    url: "https://twitter.com/May_fm0/"
-  - label: '`r fontawesome::fa(name = "github", fill = "steelblue")` Github'
+  - label: '`r fontawesome::fa(name = "github", fill = "#659287")` Github'
     url: "https://github.com/Mayfm/"
-  - label: '`r fontawesome::fa(name = "researchgate", fill = "steelblue")` ResearchGate'
+  - label: '`r fontawesome::fa(name = "researchgate", fill = "#659287")` ResearchGate'
     url: "https://www.researchgate.net/profile/Mayela-Fosado-Mendoza"
-  - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` maye.fosado@gmail.com'
+  - label: '`r fontawesome::fa(name = "x-twitter", fill = "#659287")` Twitter'
+    url: "https://twitter.com/May_fm0/"
+  - label: '`r fontawesome::fa(name = "envelope", fill = "#659287")` maye.fosado@gmail.com'
     url: "mailto:maye.fosado@gmail.com"
  #- label: '`r fontawesome::fa(name = "user", fill = "steelblue")` CV'
   #  url: "https://eveliacoss.github.io/CV/cv_ECoss.html"
