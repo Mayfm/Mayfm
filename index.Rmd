@@ -9,13 +9,13 @@ links:
   - label: '`r fontawesome::fa(name = "github", fill = "steelblue")` Github'
     url: "https://github.com/Mayfm/"
   - label: '`r fontawesome::fa(name = "researchgate", fill = "steelblue")` ResearchGate'
-    url: https://www.researchgate.net/profile/Mayela-Fosado-Mendoza  
-  - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` Mail'
+    url: "https://www.researchgate.net/profile/Mayela-Fosado-Mendoza"
+  - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` maye.fosado@gmail.com'
     url: "mailto:maye.fosado@gmail.com"
  #- label: '`r fontawesome::fa(name = "user", fill = "steelblue")` CV'
   #  url: "https://eveliacoss.github.io/CV/cv_ECoss.html"
 output:
-  postcards::jolla
+  postcards::trestles
 ---
 
 ```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
@@ -25,19 +25,21 @@ library(fontawesome)
 
 ## 🌸 Bio
 
-Hi! I'm Mayela, a microbiologist exploring bioinformatics, data science, and computational biology. My work focuses on understanding microbial communities through metagenomics and bioinformatics approaches.
+Hi! I’m Mayela, a microbiologist exploring bioinformatics, data science, and computational biology. I am interested in applying computational approaches to understand biological systems and analyze complex biological data.
 
-Member of **ISCB RSG-Mexico**, where I contribute to the organization of bioinformatics courses, workshops, symposia, and journal clubs.
+I completed my undergraduate thesis at the Instituto de Neurobiología (UNAM), where I performed a metagenomic analysis of the microbiota associated with the body wall of the terrestrial gastropod *Deroceras laeve*. Through this project, I developed experience in bioinformatics workflows, data analysis, and computational tools for biological research.
 
-Currently expanding my skills in bioinformatics, computational biology, data science, and Python.
+I am a member of **ISCB RSG-Mexico**, where I contribute to the organization of bioinformatics courses, workshops, symposia, journal clubs, and outreach activities. 
+
+Currently, I continue expanding my skills in bioinformatics, computational biology, Python, and data science through research, training programs, and community-driven initiatives.
 
 ##  Education
 
 **B.Sc. in Microbiology** | Universidad Autónoma de Querétaro (UAQ), Mexico
 
-**Undergraduate Thesis** | Instituto de Neurobiología (INB), UNAM Campus Juriquilla
+**Undergraduate Thesis** | Instituto de Neurobiología (INB), UNAM 
 
-**Thesis title:** Microbiota characterization of *Deroceras laeve* using shotgun metagenomics.
+**Thesis title:** Análisis metagenómico de la microbiota en la pared corporal del gasterópodo *Deroceras laeve*.
 
 ##  Experience
 
@@ -49,7 +51,7 @@ Research focused on metagenomics, microbiome analysis, and bioinformatics workfl
 
 Supporting educational initiatives, workshops, symposia, and outreach activities in bioinformatics.
 
-## 📂 Repository Contributions
+##  Repository Contributions
 
 ### Thesis Project
 
