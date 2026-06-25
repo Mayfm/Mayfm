@@ -39,7 +39,8 @@ Bioinformatics workflow developed for my undergraduate thesis in Microbiology. T
 - [Microbiota Thesis Pipeline](https://github.com/Mayfm/microbiota-thesis-pipeline)
 
 ### Collaborative work
-- [Workshop Repository](https://github.com/ISCB-RSG-MEXICO/Workshop_Bash2025) 
+- [Workshop Repository](https://github.com/ISCB-RSG-MEXICO/Workshop_Bash2025)
+- [Video Games Sales Data Analysis](https://github.com/Emilio-O/Video-Games-Sales-Data-analysis)
 
 ### Coursework Projects
 These repositories include projects and assignmentes completed during my bachelor's degree. They showcase my learning process in bioinformatics.
